@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: <Widget>[
-                // Expression
+                // Expressions
                 Container(
                   alignment: Alignment.centerRight,
                   padding: const EdgeInsets.only(top: 30.0, right: 10.0),
@@ -57,7 +57,7 @@ class _HomePageState extends State<HomePage> {
                     style: kExpressionStyle,
                   ),
                 ),
-                // Output
+                // Results
                 Container(
                   alignment: Alignment.centerRight,
                   padding: const EdgeInsets.only(right: 10.0),
