@@ -1,5 +1,5 @@
 # Miscellaneous
-.README.md
+*.README.md
 *.class
 *.log
 *.pyc
