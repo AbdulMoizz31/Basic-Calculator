@@ -15,6 +15,7 @@ Flutter Calculator that do Basic Operations:
 Get Started with:
 - You can use [Zapp](https://zapp.run/edit/flutter?entry=lib/main.dart&file=lib/main.dart/ "Zapp") if you don't want to check in a emulator, that basically runs into your browser
 - Zapp! is a free online sandbox environment for building & sharing Flutter applications, supporting all pub.dev packages, static analysis , embedding, previewing and     much more.
+- Just Clone the Repo into your system and import in Zapp 
 
 
 This Project is open to Contribution!
